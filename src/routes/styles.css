@@ -1,0 +1,16 @@
+@import '@fontsource/fira-mono';
+body {
+	background:linear-gradient(
+          rgba(0, 0, 0, 0.6), 
+          rgba(0, 0, 0, 0.8)
+        ), url('$lib/images/br.jpg') ;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+	margin: 0;
+	
+	
+}
+
+
+
